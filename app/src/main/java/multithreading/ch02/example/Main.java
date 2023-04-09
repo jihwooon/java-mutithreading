@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.ch02.example;
 
 public class Main {
 
