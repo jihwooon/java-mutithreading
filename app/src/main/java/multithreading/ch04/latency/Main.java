@@ -1,4 +1,4 @@
-package multithreading.ch04;
+package multithreading.ch04.latency;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
